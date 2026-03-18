@@ -46,8 +46,8 @@ For a detailed step-by-step breakdown of every resource, command, and error fix 
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/terraform-azure-vm.git
-cd terraform-azure-vm
+git clone https://github.com/0dow0ri7s3/tf-azure-linux-vm.git
+cd tf-azure-linux-vm.git
 ```
 
 **2. Login to Azure**
@@ -136,4 +136,4 @@ Removes all provisioned resources from Azure.
 
 **Odoworitse**  
 Junior DevOps Engineer  
-[GitHub](https://github.com/0dow0ri7s3) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/0dow0ri7s3) · [LinkedIn](www.linkedin.com/in/odoworitse-afari)
